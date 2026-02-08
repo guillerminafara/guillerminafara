@@ -12,9 +12,9 @@
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/guillerminafara/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=guillerminafara.guillerminafara"></a>
-</p> -->
+</p> 
 
 ---
 
